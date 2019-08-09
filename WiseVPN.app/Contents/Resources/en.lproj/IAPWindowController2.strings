@@ -1,0 +1,108 @@
+
+/* Class = "NSBox"; title = "Package 6"; ObjectID = "0Zv-Bp-S0H"; */
+"0Zv-Bp-S0H.title" = "Package 6";
+
+/* Class = "NSTextFieldCell"; title = "$25.99"; ObjectID = "0Zv-u8-f7o"; */
+"0Zv-u8-f7o.title" = "$25.99";
+
+/* Class = "NSTextFieldCell"; title = "$2.75/m"; ObjectID = "0pz-Qn-ert"; */
+"0pz-Qn-ert.title" = "$2.75/m";
+
+/* Class = "NSTextFieldCell"; title = "Weekly high speed line package. "; ObjectID = "0xu-F3-XVp"; */
+"0xu-F3-XVp.title" = "Weekly high speed line package. ";
+
+/* Class = "NSTextFieldCell"; title = "Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period."; ObjectID = "6bo-Xa-aUC"; */
+"6bo-Xa-aUC.title" = "Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.  Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.";
+
+/* Class = "NSButtonCell"; title = "Buy"; ObjectID = "8eE-3S-OoB"; */
+"8eE-3S-OoB.title" = "Buy";
+
+/* Class = "NSTextFieldCell"; title = "$0.99"; ObjectID = "CGc-1u-1kc"; */
+"CGc-1u-1kc.title" = "$0.99";
+
+/* Class = "NSWindow"; title = "Upgrade"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Subscription";
+
+/* Class = "NSButtonCell"; title = "Buy"; ObjectID = "HY5-WQ-eKO"; */
+"HY5-WQ-eKO.title" = "Buy";
+
+/* Class = "NSTextFieldCell"; title = "2 Monthly high speed line package."; ObjectID = "JSm-cy-5AY"; */
+"JSm-cy-5AY.title" = "2 Monthly high speed line package.";
+
+/* Class = "NSTextFieldCell"; title = "Free"; ObjectID = "L6x-9N-Zao"; */
+"L6x-9N-Zao.title" = "Free";
+
+/* Class = "NSBox"; title = "Package Free"; ObjectID = "Leu-fm-geL"; */
+"Leu-fm-geL.title" = "Package Free";
+
+/* Class = "NSTextFieldCell"; title = "Monthly high speed line package."; ObjectID = "Mw9-Hp-Lmt"; */
+"Mw9-Hp-Lmt.title" = "Monthly high speed line package.";
+
+/* Class = "NSTextFieldCell"; title = "$2.50/m"; ObjectID = "Njj-Ku-D42"; */
+"Njj-Ku-D42.title" = "$2.50/m";
+
+/* Class = "NSTextFieldCell"; title = "Save 50%"; ObjectID = "Qek-Xk-fBk"; */
+"Qek-Xk-fBk.title" = "Save 50%";
+
+/* Class = "NSButtonCell"; title = "Buy"; ObjectID = "SQ0-qK-HqC"; */
+"SQ0-qK-HqC.title" = "Buy";
+
+/* Class = "NSTextFieldCell"; title = "👍"; ObjectID = "VKI-al-KYS"; */
+"VKI-al-KYS.title" = "👍";
+
+/* Class = "NSButtonCell"; title = "Buy"; ObjectID = "Vnt-9e-HIp"; */
+"Vnt-9e-HIp.title" = "Buy";
+
+/* Class = "NSBox"; title = "Package 1"; ObjectID = "Zlf-uz-2st"; */
+"Zlf-uz-2st.title" = "Package 1";
+
+/* Class = "NSBox"; title = "Package 3"; ObjectID = "b6V-O6-g0b"; */
+"b6V-O6-g0b.title" = "Package 3";
+
+/* Class = "NSBox"; title = "Package 4"; ObjectID = "bnp-0d-m9t"; */
+"bnp-0d-m9t.title" = "Package 4";
+
+/* Class = "NSTextFieldCell"; title = "Semi-Annually high speed line package."; ObjectID = "d6Z-kY-g0b"; */
+"d6Z-kY-g0b.title" = "Semi-Annually high speed line package.";
+
+/* Class = "NSBox"; title = "Package 5"; ObjectID = "gFU-Ib-1rG"; */
+"gFU-Ib-1rG.title" = "Package 5";
+
+/* Class = "NSTextFieldCell"; title = "$7.99"; ObjectID = "gVo-d8-Ey4"; */
+"gVo-d8-Ey4.title" = "$7.99";
+
+/* Class = "NSTextFieldCell"; title = "Annually high speed line package."; ObjectID = "hVA-cL-shf"; */
+"hVA-cL-shf.title" = "Annually high speed line package.";
+
+/* Class = "NSButtonCell"; title = "Buy"; ObjectID = "j41-zA-emn"; */
+"j41-zA-emn.title" = "Buy";
+
+/* Class = "NSTextFieldCell"; title = "$2.66/m"; ObjectID = "kDC-0n-gyO"; */
+"kDC-0n-gyO.title" = "$2.66/m";
+
+/* Class = "NSButtonCell"; title = "Free get"; ObjectID = "m4h-lp-0cG"; */
+"m4h-lp-0cG.title" = "Free get";
+
+/* Class = "NSTextFieldCell"; title = "$14.99"; ObjectID = "nAU-5y-f8K"; */
+"nAU-5y-f8K.title" = "$14.99";
+
+/* Class = "NSButtonCell"; title = "Buy"; ObjectID = "nS8-hO-q4L"; */
+"nS8-hO-q4L.title" = "Buy";
+
+/* Class = "NSTextFieldCell"; title = "Quarterly high speed line package."; ObjectID = "nZm-xo-mVR"; */
+"nZm-xo-mVR.title" = "Quarterly high speed line package.";
+
+/* Class = "NSTextFieldCell"; title = "$5.49"; ObjectID = "o2v-al-Fq5"; */
+"o2v-al-Fq5.title" = "$5.49";
+
+/* Class = "NSTextFieldCell"; title = "$2.99"; ObjectID = "p9G-Ix-Rad"; */
+"p9G-Ix-Rad.title" = "$2.99";
+
+/* Class = "NSTextFieldCell"; title = "Weekly high speed line package. "; ObjectID = "qYc-eH-rKH"; */
+"qYc-eH-rKH.title" = "Weekly high speed line package. ";
+
+/* Class = "NSBox"; title = "Package 2"; ObjectID = "uAa-i3-7Bc"; */
+"uAa-i3-7Bc.title" = "Package 2";
+
+/* Class = "NSTextFieldCell"; title = "--------------------------------------------------------------------------------------"; ObjectID = "aJX-19-hst"; */
+//"aJX-19-hst.title" = "注意：包年套餐可使用年付专线和其它所有线路，其它套餐仅可使用VIP和普通线路。";

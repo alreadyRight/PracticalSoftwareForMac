@@ -1,0 +1,57 @@
+/* Class = "NSComboBoxCell"; 7D5-po-x2N.ibShadowedObjectValues[0] = "PROXY"; ObjectID = "7D5-po-x2N"; */
+"7D5-po-x2N.ibShadowedObjectValues[0]" = "PROXY";
+
+/* Class = "NSComboBoxCell"; 7D5-po-x2N.ibShadowedObjectValues[1] = "DIRECT"; ObjectID = "7D5-po-x2N"; */
+"7D5-po-x2N.ibShadowedObjectValues[1]" = "DIRECT";
+
+/* Class = "NSComboBoxCell"; 7D5-po-x2N.ibShadowedObjectValues[2] = "REJECT"; ObjectID = "7D5-po-x2N"; */
+"7D5-po-x2N.ibShadowedObjectValues[2]" = "REJECT";
+
+/* Class = "NSButtonCell"; title = "Direct all CN website [URL,.cn,DIRECT & GEOIP,CN,DIRECT]"; ObjectID = "8fH-Gx-EA7"; */
+"8fH-Gx-EA7.title" = "Direct all CN website [URL,.cn,DIRECT & GEOIP,CN,DIRECT]";
+
+/* Class = "NSWindow"; title = "User action rules"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "自定义访问规则";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "Ivq-Rc-dMB"; */
+"Ivq-Rc-dMB.title" = "保存";
+
+/* Class = "NSButtonCell"; title = "Block ads [DOMAIN-SUFFIX,example.com,REJECT ... etc]"; ObjectID = "NLy-Jf-444"; */
+"NLy-Jf-444.title" = "Block ads [DOMAIN-SUFFIX,example.com,REJECT ... etc]";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "OMM-Od-e6s"; */
+"OMM-Od-e6s.title" = "添加";
+
+/* Class = "NSButtonCell"; title = "Auto match [DOMAIN-SUFFIX,google.com,PROXY ... etc]"; ObjectID = "RST-7x-6d4"; */
+"RST-7x-6d4.title" = "Auto match [DOMAIN-SUFFIX,google.com,PROXY ... etc]";
+
+/* Class = "NSButtonCell"; title = "Proxy all US website [URL,.us,PROXY & GEOIP,US,PROXY]"; ObjectID = "dqE-cu-qCW"; */
+"dqE-cu-qCW.title" = "Proxy all US website [URL,.us,PROXY & GEOIP,US,PROXY]";
+
+/* Class = "NSBox"; title = "Custom"; ObjectID = "iHr-tf-nVo"; */
+"iHr-tf-nVo.title" = "Custom";
+
+/* Class = "NSBox"; title = "Default"; ObjectID = "sls-Vi-jKT"; */
+"sls-Vi-jKT.title" = "Default";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "tmL-Wu-QnC"; */
+"tmL-Wu-QnC.title" = "关闭";
+
+/* Class = "NSComboBoxCell"; uew-iy-zsd.ibShadowedObjectValues[0] = "DOMAIN-SUFFIX"; ObjectID = "uew-iy-zsd"; */
+"uew-iy-zsd.ibShadowedObjectValues[0]" = "DOMAIN-SUFFIX";
+
+/* Class = "NSComboBoxCell"; uew-iy-zsd.ibShadowedObjectValues[1] = "DOMAIN-MATCH"; ObjectID = "uew-iy-zsd"; */
+"uew-iy-zsd.ibShadowedObjectValues[1]" = "DOMAIN-MATCH";
+
+/* Class = "NSComboBoxCell"; uew-iy-zsd.ibShadowedObjectValues[2] = "URL"; ObjectID = "uew-iy-zsd"; */
+"uew-iy-zsd.ibShadowedObjectValues[2]" = "URL";
+
+/* Class = "NSComboBoxCell"; uew-iy-zsd.ibShadowedObjectValues[3] = "IP-CIDR"; ObjectID = "uew-iy-zsd"; */
+"uew-iy-zsd.ibShadowedObjectValues[3]" = "IP-CIDR";
+
+/* Class = "NSComboBoxCell"; uew-iy-zsd.ibShadowedObjectValues[4] = "GEOIP"; ObjectID = "uew-iy-zsd"; */
+"uew-iy-zsd.ibShadowedObjectValues[4]" = "GEOIP";
+
+/* Class = "NSButtonCell"; title = "Proxy all JP website [URL,.jp,PROXY & GEOIP,JP,PROXY]"; ObjectID = "vze-tx-Xpg"; */
+"vze-tx-Xpg.title" = "Proxy all JP website [URL,.jp,PROXY & GEOIP,JP,PROXY]";
+

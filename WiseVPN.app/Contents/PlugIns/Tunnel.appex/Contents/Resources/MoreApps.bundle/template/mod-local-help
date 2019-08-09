@@ -1,0 +1,11 @@
+        <h2>Local Privoxy support:</h2>
+
+<!-- @if-have-proxy-info-start -->
+        <p>You can consult the <a href="@proxy-info-url@">online documentation</a> for more information about this Privoxy installation.</p>
+<!-- if-have-proxy-info-end@ -->
+
+<!-- @if-have-adminaddr-info-start -->
+        <p>You can get help from
+          <a target="blank" href="https://www.wisevpn.net"> WiseVPN Homepage</a>
+        </p>
+<!-- if-have-adminaddr-info-end@ -->

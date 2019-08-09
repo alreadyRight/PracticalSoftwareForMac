@@ -1,0 +1,150 @@
+
+/* Class = "NSMenu"; title = "Servers"; ObjectID = "0t1-1r-f8b"; */
+"0t1-1r-f8b.title" = "Servers";
+
+/* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "1UK-8n-QPP"; */
+"1UK-8n-QPP.title" = "Customize Toolbar…";
+
+/* Class = "NSMenuItem"; title = "WiseVPN"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "WiseVPN";
+
+/* Class = "NSMenuItem"; title = "State: Disconnected"; ObjectID = "2fq-K6-OpT"; */
+"2fq-K6-OpT.title" = "State: Disconnected";
+
+/* Class = "NSMenuItem"; title = "Quit WiseVPN"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Quit WiseVPN";
+
+/* Class = "NSMenuItem"; title = "Get Help"; ObjectID = "uWU-0A-SRL"; */
+"uWU-0A-SRL.title" = "Get Help";
+
+/* Class = "NSMenuItem"; title = "About WiseVPN"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "About WiseVPN";
+
+/* Class = "NSButtonCell"; title = "Order"; ObjectID = "8WS-rw-uCa"; */
+"8WS-rw-uCa.title" = "Subscription";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "Preferences…";
+
+/* Class = "NSTextFieldCell"; title = "Status:"; ObjectID = "EZd-F0-Ret"; */
+"EZd-F0-Ret.title" = "Status:";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "WiseVPN Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "WiseVPN Help";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; */
+"H8h-7b-M4v.title" = "View";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
+"HyV-fh-RgO.title" = "View";
+
+/* Class = "NSTextFieldCell"; title = "Exp time:"; ObjectID = "JjS-1T-4Cv"; */
+"JjS-1T-4Cv.title" = "Exp time:";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Show All";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "Bring All to Front";
+
+/* Class = "NSMenu"; title = "WiseVPN"; ObjectID = "LqR-Dh-02H"; */
+"LqR-Dh-02H.title" = "WiseVPN";
+
+/* Class = "NSTextFieldCell"; title = "Disconnected"; ObjectID = "Mup-g9-dmd"; */
+"Mup-g9-dmd.title" = "Disconnected";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
+"OY7-WF-poV.title" = "Minimize";
+
+/* Class = "NSMenuItem"; title = "Visit website"; ObjectID = "ObM-dV-qF1"; */
+"ObM-dV-qF1.title" = "Visit website";
+
+/* Class = "NSMenuItem"; title = "Servers"; ObjectID = "Ohb-5N-joC"; */
+"Ohb-5N-joC.title" = "Servers";
+
+/* Class = "NSMenuItem"; title = "Hide WiseVPN"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Hide WiseVPN";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
+"Td7-aD-5lo.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Hide Others";
+
+/* Class = "NSBox"; title = "VIP"; ObjectID = "XyD-iQ-RiL"; */
+"XyD-iQ-RiL.title" = "VIP";
+
+/* Class = "NSTextFieldCell"; title = "Mode:"; ObjectID = "Zzs-nc-tl3"; */
+"Zzs-nc-tl3.title" = "Mode:";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
+"aUF-d1-5bR.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Start WiseVPN"; ObjectID = "aly-A4-84N"; */
+"aly-A4-84N.title" = "Start WiseVPN";
+
+/* Class = "NSMenuItem"; title = "For iPhone/iPad"; ObjectID = "bAP-uQ-bcj"; */
+"bAP-uQ-bcj.title" = "For iPhone/iPad";
+
+/* Class = "NSMenuItem"; title = "Auto mode"; ObjectID = "c8y-1L-i7u"; */
+"c8y-1L-i7u.title" = "Auto mode";
+
+/* Class = "NSMenuItem"; title = "Quit"; ObjectID = "hWg-DN-vk3"; */
+"hWg-DN-vk3.title" = "Quit";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Server Preferences"; ObjectID = "iC5-gT-oyk"; */
+"iC5-gT-oyk.title" = "Server Preferences";
+
+/* Class = "NSMenuItem"; title = "Local proxy for develop"; ObjectID = "j2p-Aa-ITy"; */
+"j2p-Aa-ITy.title" = "Local proxy for develop";
+
+/* Class = "NSMenuItem"; title = "Global mode"; ObjectID = "jbG-Gf-Ne3"; */
+"jbG-Gf-Ne3.title" = "Global mode";
+
+/* Class = "NSMenuItem"; title = "VIP"; ObjectID = "l8b-N3-qly"; */
+"l8b-N3-qly.title" = "VIP";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "oYU-Cj-XD7"; */
+"oYU-Cj-XD7.title" = "Button";
+
+/* Class = "NSTextFieldCell"; title = "2017-03-29 15:49:33"; ObjectID = "rBL-yq-5Uh"; */
+"rBL-yq-5Uh.title" = "2017-03-29 15:49:33";
+
+/* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "snW-S8-Cw5"; */
+"snW-S8-Cw5.title" = "Show Toolbar";
+
+/* Class = "NSButtonCell"; title = "Auto"; ObjectID = "tVc-LZ-8t9"; */
+"tVc-LZ-8t9.title" = "Auto";
+
+/* Class = "NSMenu"; title = "WiseVPN"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "WiseVPN";
+
+/* Class = "NSMenuItem"; title = "About"; ObjectID = "wY0-Yn-Q6p"; */
+"wY0-Yn-Q6p.title" = "About";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "Terms of Service"; ObjectID = "81G-z4-agQ"; */
+"81G-z4-agQ.title" = "Terms of Service";
+
+/* Class = "NSMenuItem"; title = "Website"; ObjectID = "bZo-oJ-BKM"; */
+"bZo-oJ-BKM.title" = "Website";
+
+/* Class = "NSMenu"; title = "Website"; ObjectID = "nxG-1C-B98"; */
+"nxG-1C-B98.title" = "Website";
+
+/* Class = "NSMenuItem"; title = "Privacy Policy"; ObjectID = "kep-q8-lbj"; */
+"kep-q8-lbj.title" = "Privacy Policy";

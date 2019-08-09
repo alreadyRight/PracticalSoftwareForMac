@@ -1,0 +1,105 @@
+
+/* Class = "NSBox"; title = "无限流量套餐 4"; ObjectID = "0Zv-Bp-S0H"; */
+"0Zv-Bp-S0H.title" = "无限流量套餐 6";
+
+/* Class = "NSTextFieldCell"; title = "$25.99"; ObjectID = "0Zv-u8-f7o"; */
+"0Zv-u8-f7o.title" = "$25.99";
+
+/* Class = "NSTextFieldCell"; title = "Weekly high speed line 无限流量套餐. "; ObjectID = "0xu-F3-XVp"; */
+"0xu-F3-XVp.title" = "1周高速线路无限流量套餐. ";
+
+/* Class = "NSTextFieldCell"; title = "Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\nAccount will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal."; ObjectID = "6bo-Xa-aUC";  App Store支持支付宝，信用卡，银行卡等方式付款。*/
+"6bo-Xa-aUC.title" = "请选择一个订阅，成功后，订阅将自动更新，除非在本期结束前至少24小时关闭。\n帐户将在本期结束前24小时内收取续费费用，并确认续订费用。\n您的付款在App Store中完成。订阅成功后您可以到Mac App Store个人页面查看，更改或取消您的订阅。";
+
+/* Class = "NSButtonCell"; title = "订阅"; ObjectID = "8eE-3S-OoB"; */
+"8eE-3S-OoB.title" = "订阅";
+
+/* Class = "NSWindow"; title = "Upgrade"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "订阅并升级VIP";
+
+/* Class = "NSButtonCell"; title = "Buy"; ObjectID = "HY5-WQ-eKO"; */
+"HY5-WQ-eKO.title" = "订阅";
+
+/* Class = "NSTextFieldCell"; title = "2 Monthly high speed line package."; ObjectID = "JSm-cy-5AY"; */
+"JSm-cy-5AY.title" = "两月高速线路无限流量套餐.";
+
+/* Class = "NSButtonCell"; title = "Restore"; ObjectID = "KFk-RY-6tY"; */
+"KFk-RY-6tY.title" = "恢复订阅";
+
+/* Class = "NSTextFieldCell"; title = "Free"; ObjectID = "L6x-9N-Zao"; */
+"L6x-9N-Zao.title" = "免费";
+
+/* Class = "NSBox"; title = "无限流量套餐 Free"; ObjectID = "Leu-fm-geL"; */
+"Leu-fm-geL.title" = "无限流量套餐 Free";
+
+/* Class = "NSTextFieldCell"; title = "Monthly high speed line 无限流量套餐."; ObjectID = "Mw9-Hp-Lmt"; */
+"Mw9-Hp-Lmt.title" = "包月高速线路无限流量套餐.";
+
+/* Class = "NSTextFieldCell"; title = "$2.50/m"; ObjectID = "Njj-Ku-D42"; */
+"Njj-Ku-D42.title" = "$2.50/m";
+
+/* Class = "NSTextFieldCell"; title = "Save 50%"; ObjectID = "Qek-Xk-fBk"; */
+"Qek-Xk-fBk.title" = "节省50%";
+
+/* Class = "NSButtonCell"; title = "Buy"; ObjectID = "SQ0-qK-HqC"; */
+"SQ0-qK-HqC.title" = "订阅";
+
+/* Class = "NSTextFieldCell"; title = "👍"; ObjectID = "VKI-al-KYS"; */
+"VKI-al-KYS.title" = "👍";
+
+/* Class = "NSButtonCell"; title = "Buy"; ObjectID = "Vnt-9e-HIp"; */
+"Vnt-9e-HIp.title" = "订阅";
+
+/* Class = "NSBox"; title = "无限流量套餐 1"; ObjectID = "Zlf-uz-2st"; */
+"Zlf-uz-2st.title" = "无限流量套餐 1";
+
+/* Class = "NSBox"; title = "Package 3"; ObjectID = "b6V-O6-g0b"; */
+"b6V-O6-g0b.title" = "无限流量套餐 3";
+
+/* Class = "NSBox"; title = "Package 4"; ObjectID = "bnp-0d-m9t"; */
+"bnp-0d-m9t.title" = "无限流量套餐 4";
+
+/* Class = "NSTextFieldCell"; title = "Semi-Annually high speed line package."; ObjectID = "d6Z-kY-g0b"; */
+"d6Z-kY-g0b.title" = "半年高速线路无限流量套餐";
+
+/* Class = "NSBox"; title = "Package 5"; ObjectID = "gFU-Ib-1rG"; */
+"gFU-Ib-1rG.title" = "无限流量套餐 5";
+
+/* Class = "NSTextFieldCell"; title = "$7.99"; ObjectID = "gVo-d8-Ey4"; */
+"gVo-d8-Ey4.title" = "$7.99";
+
+/* Class = "NSTextFieldCell"; title = "Annually high speed line 无限流量套餐."; ObjectID = "hVA-cL-shf"; */
+"hVA-cL-shf.title" = "包年高速线路无限流量套餐.";
+
+/* Class = "NSButtonCell"; title = "订阅"; ObjectID = "j41-zA-emn"; */
+"j41-zA-emn.title" = "订阅";
+
+/* Class = "NSTextFieldCell"; title = "$2.66/m"; ObjectID = "kDC-0n-gyO"; */
+"kDC-0n-gyO.title" = "$2.66/m";
+
+/* Class = "NSButtonCell"; title = "Free get"; ObjectID = "m4h-lp-0cG"; */
+"m4h-lp-0cG.title" = "免费获得";
+
+/* Class = "NSTextFieldCell"; title = "$14.99"; ObjectID = "nAU-5y-f8K"; */
+"nAU-5y-f8K.title" = "$14.99";
+
+/* Class = "NSButtonCell"; title = "Buy"; ObjectID = "nS8-hO-q4L"; */
+"nS8-hO-q4L.title" = "订阅";
+
+/* Class = "NSTextFieldCell"; title = "Quarterly high speed line 无限流量套餐."; ObjectID = "nZm-xo-mVR"; */
+"nZm-xo-mVR.title" = "3个月高速线路无限流量套餐.";
+
+/* Class = "NSTextFieldCell"; title = "$5.49"; ObjectID = "o2v-al-Fq5"; */
+"o2v-al-Fq5.title" = "$5.49";
+
+/* Class = "NSTextFieldCell"; title = "$2.99"; ObjectID = "p9G-Ix-Rad"; */
+"p9G-Ix-Rad.title" = "$2.99";
+
+/* Class = "NSTextFieldCell"; title = "Weekly high speed line 无限流量套餐. "; ObjectID = "qYc-eH-rKH"; */
+"qYc-eH-rKH.title" = "1周高速线路无限流量套餐. ";
+
+/* Class = "NSBox"; title = "无限流量套餐 2"; ObjectID = "uAa-i3-7Bc"; */
+"uAa-i3-7Bc.title" = "无限流量套餐 2";
+
+/* Class = "NSTextFieldCell"; title = "--------------------------------------------------------------------------------------"; ObjectID = "aJX-19-hst"; */
+"aJX-19-hst.title" = "注意：包年套餐可使用年付专线和其它所有线路，其它套餐仅可使用VIP和普通线路。";

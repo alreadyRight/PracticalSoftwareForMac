@@ -1,0 +1,12 @@
+
+/* Class = "NSWindow"; title = "Rate It Now"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "发表您的看法";
+
+/* Class = "NSButtonCell"; title = "YES"; ObjectID = "LX4-Jt-UaX"; */
+"LX4-Jt-UaX.title" = "写评论";
+
+/* Class = "NSButtonCell"; title = "NO"; ObjectID = "Rna-T9-jzB"; */
+"Rna-T9-jzB.title" = "不了";
+
+/* Class = "NSTextFieldCell"; title = "If you enjoy using Wise VPN, would you mind taking a moment to rate it? It won’t take more than a minute. Thanks for your support!"; ObjectID = "kOq-dn-JHE"; */
+"kOq-dn-JHE.title" = "如果您喜欢智行VPN，请给我们一个评价，这只需花费您一分钟。您的支持有助于我们更好的改善和优化服务，谢谢您！";

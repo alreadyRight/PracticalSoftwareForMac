@@ -1,0 +1,24 @@
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "2HV-uj-dxy"; */
+"2HV-uj-dxy.title" = "Save";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "6p1-be-TSM"; */
+"6p1-be-TSM.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "EBf-Ly-n5f"; */
+"EBf-Ly-n5f.title" = "Text Cell";
+
+/* Class = "NSWindow"; title = "DNS Setting"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "DNS Setting";
+
+/* Class = "NSTextFieldCell"; title = "Address:"; ObjectID = "FHT-NX-vqJ"; */
+"FHT-NX-vqJ.title" = "Address:";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "MZ8-nq-TgN"; */
+"MZ8-nq-TgN.title" = "Close";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "caq-fC-ZqJ"; */
+"caq-fC-ZqJ.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "wBz-ck-xnz"; */
+"wBz-ck-xnz.title" = "Name:";

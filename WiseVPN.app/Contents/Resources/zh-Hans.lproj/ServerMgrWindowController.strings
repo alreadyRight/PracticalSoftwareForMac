@@ -1,0 +1,51 @@
+
+/* Class = "NSTextFieldCell"; title = "Parameter:"; ObjectID = "3ba-7v-hof"; */
+"3ba-7v-hof.title" = "obfs参数:";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "COZ-Qr-bmU"; */
+"COZ-Qr-bmU.title" = "Text";
+
+/* Class = "NSWindow"; title = "Server Preferences"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "服务器管理";
+
+/* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "FJM-y5-ef4"; */
+"FJM-y5-ef4.title" = "用户名:";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Gqv-5O-Wwf"; */
+"Gqv-5O-Wwf.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = ":"; ObjectID = "Ibr-Gs-5Js"; */
+"Ibr-Gs-5Js.title" = ":";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "MiN-VE-FtC"; */
+"MiN-VE-FtC.title" = "名称:";
+
+/* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "bSx-1E-5Gc"; */
+"bSx-1E-5Gc.title" = "类型:";
+
+/* Class = "NSButtonCell"; title = "Need Auth"; ObjectID = "hRZ-Rp-I5e"; */
+"hRZ-Rp-I5e.title" = "需要验证";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "j03-9E-uHW"; */
+"j03-9E-uHW.title" = "关闭";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "jA4-6y-SRG"; */
+"jA4-6y-SRG.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "kil-xC-HPD"; */
+"kil-xC-HPD.title" = "密码:";
+
+/* Class = "NSTextFieldCell"; title = "Protocol:"; ObjectID = "lUb-DS-bHi"; */
+"lUb-DS-bHi.title" = "Protocol:";
+
+/* Class = "NSTextFieldCell"; title = "Encryption:"; ObjectID = "mOh-nD-7EX"; */
+"mOh-nD-7EX.title" = "加密方式:";
+
+/* Class = "NSTextFieldCell"; title = "obfs:"; ObjectID = "uDJ-pG-Gig"; */
+"uDJ-pG-Gig.title" = "obfs:";
+
+/* Class = "NSTextFieldCell"; title = "Address:"; ObjectID = "yHs-XE-XEB"; */
+"yHs-XE-XEB.title" = "地址:";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "zPE-oD-PwK"; */
+"zPE-oD-PwK.title" = "保存";

@@ -1,0 +1,23 @@
+##############################################################################
+#
+# File        :  $Source: /cvsroot/ijbswa/current/templates/mod-support-and-service,v $
+#
+# Purpose     :  Template that is included from most of Privoxy's CGI pages
+#                to show the user how to get help or report problems.
+#
+#
+# Copyright   :  Written by and Copyright (C) 2002-2009 members of
+#                the Privoxy team. http://www.privoxy.org/
+#
+#                This template is free software; you can redistribute it
+#                and/or modify it under the terms of the GNU General
+#                Public License as published by the Free Software
+#                Foundation; either version 2 of the License, or (at
+#                your option) any later version.
+#
+##############################################################################
+<h2>Support and Service:</h2>
+<p>
+<iframe src="https://www.wisevpn.net/app/helpwhenerr.php?from=@protocol@@hostport@@path@" width="100%" height="520px" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="yes"/>
+</p>
+
